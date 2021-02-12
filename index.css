@@ -1,0 +1,42 @@
+body {
+   text-align: center;
+    
+    background-color: lavender;
+}
+img {
+    width:175px;
+    transition: transform .2s;
+       border:10px solid #AAAAAA;
+    
+}
+img:hover {
+    transform: scale(0.9);
+}
+#sec {
+    padding:10px;
+    text-align: center;
+    font-size: 42px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: 30;
+    font-family: sans-serif;
+    
+    line-height: 1.2;
+    color: cornflowerblue;
+}
+h2 {
+   font-family: cursive; 
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 100px;
+    margin: 8px auto;
+}
+#picture {
+    height: 230px;
+}
+
+
+
